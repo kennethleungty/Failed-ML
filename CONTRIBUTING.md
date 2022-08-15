@@ -1,7 +1,10 @@
 # Contribution Guide
 
-- Have a favourite piece you're not seeing here? Want to contribute? Make a pull request (PR)! 😄
-- Before creating a PR, please check if your suggestion is already included. We welcome updates on existing resource (e.g., additional links, etc.)
-- New to Markdown? Here's how it would look like:
-- [Title of Paper, Article, Blog](url) `Organization`
-Thank you for contributing to this repository!
+- Looking to contribute a piece to this collection? Go ahead and make a pull request (PR)!
+- Do check whether your contribution is already inside this compilation. We do, however, welcome updates on existing resources
+- It is preferred that the article you are submitting is *not* behind a paywall
+- Here's how to add your contribution as a markdown: 
+    - `| [Title](https://link-to-article.com) | Brief Description of the Failure (if any) |`
+- If unsure, you can always see how the previous entries were done
+
+Big thanks for your contributions!
