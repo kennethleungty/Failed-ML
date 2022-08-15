@@ -1,4 +1,4 @@
-# ML Fails
+# Failed ML
 <!-- ## Contents
 1. [Placeholder Title](#placeholder-tag) -->
 ### Building the biggest collection of real-world examples of epic AI/ML failures
