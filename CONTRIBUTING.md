@@ -1,10 +1,10 @@
 # Contribution Guide
 
-- Looking to contribute a piece to this collection? Go ahead and make a pull request (PR)!
-- Do check whether your contribution is already inside this compilation. We do, however, welcome updates on existing resources
-- It is preferred that the article is from a reputable source and ideally *not* behind a paywall
+- Looking to contribute an article to this collection? Go ahead and make a pull request (PR)!
+- Do check whether your contribution is already inside this compilation. Nonetheless, updates on existing resources are welcome!
+- Contribution should be from a reputable source and ideally *not* behind a paywall
 - Here's how to add your contribution as a markdown: 
-    - `| [Title](https://link-to-article.com) | Brief Description of the Failure (if any) |`
-- If unsure, you can always see how the previous entries were done
+    - `| [Title](https://link-to-article.com) | Brief description of the failure in ONE sentence |`
+- If unsure, do have a look at how the previous entries are done in the README
 
 Big thanks for your contributions!
