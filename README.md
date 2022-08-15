@@ -10,4 +10,4 @@ ___
 ## Placeholder Title -->
 | Title | Brief Description |
 | --- | --- |
-| [Title with link](https://github.com/kennethleungty/Alcohol-Image-Classifier-fastai) | Description | 
+| [Google Flu Trends](https://hbr.org/2014/03/google-flu-trends-failure-shows-good-data-big-data) | Inaccurate estimation of flu prevalence based on Google searches | 
