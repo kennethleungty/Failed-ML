@@ -5,6 +5,6 @@
 - Contribution should be from a reputable source and ideally *not* behind a paywall
 - Here's how to add your contribution as a markdown: 
     - `| [Title](https://link-to-article.com) | Brief description of the failure in ONE sentence |`
-- If unsure, do have a look at how the previous entries are done in the README
+- You can have a look at how the previous entries are done in the README
 
 Big thanks for your contributions!
