@@ -2,7 +2,7 @@
 ## Biggest compilation of high-profile real-world examples of failed projects in data science and machine learning (ML)
 <br>
 
-> ### “Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston Churchill
+> ### “Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill
 <br>
 
 If you are looking for examples of how ML can fail despite all its incredible potential, you have come to the right place. Beyond the wonderful success stories of [applied ML](https://github.com/eugeneyan/applied-ml), here is a list of failed projects from which we can also learn a lot from. 
