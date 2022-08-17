@@ -1,11 +1,17 @@
 # Failed ML
-## The biggest compilation of high-profile real-world examples of project failures in data science and machine learning (ML)
+## Biggest compilation of high-profile real-world examples of project failures in data science and machine learning (ML)
+<br>
 
-Looking for content to demonstrate how ML can fail despite all its incredible potential? You have come to the right place.
+> ### “Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston Churchill
+<br>
+If you are looking for examples of how ML can fail despite all its incredible potential, you have come to the right place.
 
-Beyond the wonderful success stories seen on [applied-ml](https://github.com/eugeneyan/applied-ml), there is actually so much to learn from all the failed projects in the real world.
+Beyond the wonderful success stories of [applied ML](https://github.com/eugeneyan/applied-ml), there are also many failed projects from which we can learn a lot from. 
+<br><br>
 
-[![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md) ![Visits](https://shields-io-visitor-counter.herokuapp.com/badge?page=kennethleungty.testing&label=Visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+[![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome!-brightgreen?style=for-the-badge)](./CONTRIBUTING.md) ![Visits](https://shields-io-visitor-counter.herokuapp.com/badge?page=kennethleungty.Failed-ML&label=Visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+
+<hr>
 
 ## Contents
 1. [Classification](#classification)
