@@ -1,6 +1,8 @@
-# Failed ML
+# Failed Machine Learning (FML)
 ## High-profile real-world examples of failed projects in data science and machine learning
 <br>
+
+<iframe src="https://giphy.com/embed/QOgq9Zx0KhZwQ" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 > ### “Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill
 <br>
@@ -30,7 +32,7 @@ ___
 | [Leakage and the Reproducibility Crisis in ML-based Science](https://arxiv.org/pdf/2207.07048.pdf) | A team at Princeton University found 20 reviews across 17 scientific fields that discovered significant errors (e.g., data leakage, no train-test split) in 329 papers that use ML-based science |
 | [COVID-19 Diagnosis and Triage Models](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/) | Hundreds of predictive models were developed to diagnose or triage COVID-19 patients faster, but ultimately none of them were fit for clinical use and some were potentially harmful | 
 | [COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) | Florida’s recidivism risk system found evidence of racial bias | 
-| [Pennsylvania Child Welfare Screening Tool](https://apnews.com/article/child-welfare-algorithm-investigation-9497ee937e0053ad4144a86c68241ef1) | The predictive algorithm (which helps identify which families are to be investigated by social workers for child abuse and neglect) flagged a disproportionate number of Black children for 'mandatory' neglect investigations. A similar screening tool in [Oregon](https://apnews.com/article/politics-technology-pennsylvania-child-abuse-1ea160dc5c2c203fdab456e3c2d97930) was also stopped a month after this report | 
+| [Pennsylvania Child Welfare Screening Tool](https://apnews.com/article/child-welfare-algorithm-investigation-9497ee937e0053ad4144a86c68241ef1) | The predictive algorithm (which helps identify which families are to be investigated by social workers for child abuse and neglect) flagged a disproportionate number of Black children for 'mandatory' neglect investigations. A [similar screening tool in Oregon](https://apnews.com/article/politics-technology-pennsylvania-child-abuse-1ea160dc5c2c203fdab456e3c2d97930) was also stopped a month after this report | 
 
 ___
 <a name="computer-vision"></a>
@@ -67,6 +69,7 @@ ___
 | --- | --- |
 | [Microsoft Tay Chatbot](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist) | Chatbot that posted inflammatory and offensive tweets through its Twitter account | 
 | [Nabla Chatbot](https://www.theregister.com/2020/10/28/gpt3_medical_chatbot_experiment) | Experimental chatbot (for medical advice) using a cloud-hosted instance of GPT-3 advised a mock patient to commit suicide | 
+| [Facebook Negotiation Chatbots](https://www.techtimes.com/articles/212124/20170730/facebook-ai-invents-language-that-humans-cant-understand-system-shut-down-before-it-evolves-into-skynet.htm) | The AI system was shut down after the chatbots stopped using English in their negotiations and started using a language that they created by themselves | 
 
 ___
 <a name="recommendation-systems"></a>
