@@ -1,6 +1,6 @@
 # Failed Machine Learning (FML)
 ## High-profile real-world examples of failed projects in data science and machine learning
-<br>
+<hr>
 
 ![alt text](https://github.com/kennethleungty/Failed-ML/blob/main/images/fml.gif?raw=true)
 
