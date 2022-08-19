@@ -2,7 +2,8 @@
 ## High-profile real-world examples of failed projects in data science and machine learning
 <br>
 
-<iframe src="https://giphy.com/embed/QOgq9Zx0KhZwQ" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![alt text](https://github.com/kennethleungty/Failed-ML/blob/main/images/fml.gif?raw=true)
+
 
 > ### “Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill
 <br>
@@ -33,6 +34,7 @@ ___
 | [COVID-19 Diagnosis and Triage Models](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/) | Hundreds of predictive models were developed to diagnose or triage COVID-19 patients faster, but ultimately none of them were fit for clinical use and some were potentially harmful | 
 | [COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) | Florida’s recidivism risk system found evidence of racial bias | 
 | [Pennsylvania Child Welfare Screening Tool](https://apnews.com/article/child-welfare-algorithm-investigation-9497ee937e0053ad4144a86c68241ef1) | The predictive algorithm (which helps identify which families are to be investigated by social workers for child abuse and neglect) flagged a disproportionate number of Black children for 'mandatory' neglect investigations. A [similar screening tool in Oregon](https://apnews.com/article/politics-technology-pennsylvania-child-abuse-1ea160dc5c2c203fdab456e3c2d97930) was also stopped a month after this report | 
+| [U.S. Healthcare System Health Risk Prediction](https://www.science.org/doi/full/10.1126/science.aax2342) | A widely used algorithm to predict healthcare needs exhibited racial bias where for a given risk score, black patients are considerably sicker than white patients | 
 
 ___
 <a name="computer-vision"></a>
@@ -57,8 +59,6 @@ ___
 | [Zillow iBuying algorithms](https://www.wired.com/story/zillow-ibuyer-real-estate/) | Significant losses in Zillow's home-flipping business due to inaccurate (overestimated) prices from property valuation models |
 | [Tyndaris Robot Hedge Fund](https://futurism.com/investing-lawsuit-ai-trades-cost-millions) | AI-powered automated trading system controlled by a supercomputer named K1 resulted in big investment losses, culminating in a lawsuit | 
 | [Sentient Investment AI Hedge Fund](https://www.bloomberg.com/news/articles/2018-09-07/ai-hedge-fund-sentient-is-said-to-shut-after-less-than-two-years) | The once high flying AI-powered fund at Sentient Investment Management failed to make money and was promptly liquidated in less than 2 years | 
-
-
 
 <!-- | [UK A-Levels Grading System](https://link) | NOT AI EXAMPLE, THEREFORE EXCLUDE. The grading algorithm used to score actual exams in UK was found to be biased against students of poorer backgrounds |  -->
 
