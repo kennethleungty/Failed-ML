@@ -48,6 +48,7 @@ ___
 | [Twitter smart cropping tool](https://gizmodo.com/twitters-scrambling-to-figure-out-why-its-photo-preview-1845123415) | Twitter's auto-crop tool for photo review displayed evident signs of racial bias | 
 | [Depixelator tool](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) | Algorithm (based on StyleGAN) designed to generate depixelated faces showed signs of racial bias, with image output skewed towards the white demographic | 
 | [Google Photos tagging](https://www.bbc.com/news/technology-33347866) | The automatic photo tagging capability in Google Photos mistakenly labelled black people as gorillas | 
+| [GenderShades evaluation of gender classification products ](http://gendershades.org/overview.html) | GenderShades' research revealed that Microsoft and IBM’s face-analysis services for identifying gender of people in photos frequently erred when analyzing images of women with dark skin | 
 
 ___
 <a name="forecasting"></a>
