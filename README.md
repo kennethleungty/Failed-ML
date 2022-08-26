@@ -1,5 +1,5 @@
 # Failed Machine Learning (FML)
-## High-profile real-world examples of failed projects in data science and machine learning
+## High-profile real-world examples of failed projects in machine learning
 <hr>
 
 ![alt text](https://github.com/kennethleungty/Failed-ML/blob/main/images/fml.gif?raw=true)
@@ -49,7 +49,8 @@ ___
 | [Twitter smart cropping tool](https://gizmodo.com/twitters-scrambling-to-figure-out-why-its-photo-preview-1845123415) | Twitter's auto-crop tool for photo review displayed evident signs of racial bias | 
 | [Depixelator tool](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) | Algorithm (based on StyleGAN) designed to generate depixelated faces showed signs of racial bias, with image output skewed towards the white demographic | 
 | [Google Photos tagging](https://www.bbc.com/news/technology-33347866) | The automatic photo tagging capability in Google Photos mistakenly labelled black people as gorillas | 
-| [GenderShades evaluation of gender classification products ](http://gendershades.org/overview.html) | GenderShades' research revealed that Microsoft and IBM’s face-analysis services for identifying gender of people in photos frequently erred when analyzing images of women with dark skin | 
+| [GenderShades evaluation of gender classification products](https://gendershades.org/overview.html) | GenderShades' research revealed that Microsoft and IBM’s face-analysis services for identifying gender of people in photos frequently erred when analyzing images of women with dark skin | 
+| [New Jersey Police Facial Recognition](https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html) | test A false facial recognition match by New Jersey police landed an innocent black man (Nijeer Parks) in jail even though he was 30 miles away from the crime | 
 
 ___
 <a name="forecasting"></a>
