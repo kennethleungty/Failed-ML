@@ -51,7 +51,7 @@ ___
 | [Google Photos tagging](https://www.bbc.com/news/technology-33347866) | The automatic photo tagging capability in Google Photos mistakenly labelled black people as gorillas | 
 | [GenderShades evaluation of gender classification products](https://gendershades.org/overview.html) | GenderShades' research revealed that Microsoft and IBM’s face-analysis services for identifying gender of people in photos frequently erred when analyzing images of women with dark skin | 
 | [New Jersey Police Facial Recognition](https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html) | test A false facial recognition match by New Jersey police landed an innocent black man (Nijeer Parks) in jail even though he was 30 miles away from the crime | 
-
+| [Tesla's dilemma between a horse cart and a truck](https://www.thesun.co.uk/motors/19537820/tesla-driver-gets-stuck-behind-a-horse-and-cart/) | Tesla erred in deciding on a horse and a cart behind it to be a truck or even a human walking behind a truck at one point in time | 
 ___
 <a name="forecasting"></a>
 ## Forecasting
