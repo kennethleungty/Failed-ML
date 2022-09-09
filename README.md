@@ -1,5 +1,5 @@
 # Failed Machine Learning (FML)
-## High-profile real-world examples of failed projects in machine learning
+## High-profile real-world examples of failed machine learning projects
 <hr>
 
 ![alt text](https://github.com/kennethleungty/Failed-ML/blob/main/images/fml.gif?raw=true)
