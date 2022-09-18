@@ -76,6 +76,8 @@ ___
 | [Nabla Chatbot](https://www.theregister.com/2020/10/28/gpt3_medical_chatbot_experiment) | Experimental chatbot (for medical advice) using a cloud-hosted instance of GPT-3 advised a mock patient to commit suicide | 
 | [Facebook Negotiation Chatbots](https://www.techtimes.com/articles/212124/20170730/facebook-ai-invents-language-that-humans-cant-understand-system-shut-down-before-it-evolves-into-skynet.htm) | The AI system was shut down after the chatbots stopped using English in their negotiations and started using a language that they created by themselves | 
 | [OpenAI GPT-3 Chatbot Samantha](https://futurism.com/openai-dead-fiancee) | A GPT-3 chatbot fine-tuned by indie game developer Jason Rohrer to emulate his dead fiancée was shut down by OpenAI after Jason refused their request to insert an automated monitoring tool amidst concerns of the chatbot being racist or overtly sexual |
+| [Amazon Alexa plays porn instead of song](https://nypost.com/2016/12/30/toddler-asks-amazons-alexa-to-play-song-but-gets-porn-instead/) | Amazon's voice-activated digital assistant unleashed a torrent of raunchy language after a toddler asked it to play a children’s song. |
+
 
 ___
 <a name="recommendation-systems"></a>
