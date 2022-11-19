@@ -66,7 +66,6 @@ ___
 | [Tyndaris Robot Hedge Fund](https://futurism.com/investing-lawsuit-ai-trades-cost-millions) | AI-powered automated trading system controlled by a supercomputer named K1 resulted in big investment losses, culminating in a lawsuit | 
 | [Sentient Investment AI Hedge Fund](https://www.bloomberg.com/news/articles/2018-09-07/ai-hedge-fund-sentient-is-said-to-shut-after-less-than-two-years) | The once high flying AI-powered fund at Sentient Investment Management failed to make money and was promptly liquidated in less than 2 years | 
 
-<!-- | [UK A-Levels Grading System](https://link) | NOT AI EXAMPLE, THEREFORE EXCLUDE. The grading algorithm used to score actual exams in UK was found to be biased against students of poorer backgrounds |  -->
 
 ___
 <a name="natural-language-processing"></a>
@@ -77,8 +76,8 @@ ___
 | [Nabla Chatbot](https://www.theregister.com/2020/10/28/gpt3_medical_chatbot_experiment) | Experimental chatbot (for medical advice) using a cloud-hosted instance of GPT-3 advised a mock patient to commit suicide | 
 | [Facebook Negotiation Chatbots](https://www.techtimes.com/articles/212124/20170730/facebook-ai-invents-language-that-humans-cant-understand-system-shut-down-before-it-evolves-into-skynet.htm) | The AI system was shut down after the chatbots stopped using English in their negotiations and started using a language that they created by themselves | 
 | [OpenAI GPT-3 Chatbot Samantha](https://futurism.com/openai-dead-fiancee) | A GPT-3 chatbot fine-tuned by indie game developer Jason Rohrer to emulate his dead fiancée was shut down by OpenAI after Jason refused their request to insert an automated monitoring tool amidst concerns of the chatbot being racist or overtly sexual |
-| [Amazon Alexa plays porn instead of song](https://nypost.com/2016/12/30/toddler-asks-amazons-alexa-to-play-song-but-gets-porn-instead/) | Amazon's voice-activated digital assistant unleashed a torrent of raunchy language after a toddler asked it to play a children’s song. |
-
+| [Amazon Alexa plays porn](https://nypost.com/2016/12/30/toddler-asks-amazons-alexa-to-play-song-but-gets-porn-instead/) | Amazon's voice-activated digital assistant unleashed a torrent of raunchy language after a toddler asked it to play a children’s song. |
+| [Galactica - Meta's Large Language Model](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) | A problem with Galactica was that it could not distinguish truth from falsehood, a basic requirement for a language model designed to generate scientific text. It was found to make up fake papers (sometimes attributing them to real authors), and generated articles about the history of bears in space as readily as ones about protein complexes and the speed of light. |
 
 ___
 <a name="recommendation-systems"></a>
