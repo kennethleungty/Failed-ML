@@ -2,13 +2,17 @@
 ## High-profile real-world examples of failed machine learning projects
 <hr>
 
-![alt text](https://github.com/kennethleungty/Failed-ML/blob/main/images/fml.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/kennethleungty/Failed-ML/blob/main/images/fml.gif?raw=true">
+</p>
+
+<!-- ![alt text](https://github.com/kennethleungty/Failed-ML/blob/main/images/fml.gif?raw=true) -->
 
 
 > ### “Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill
 <br>
 
-If you are looking for examples of how ML can fail despite all its incredible potential, you have come to the right place. Beyond the wonderful success stories of [applied ML](https://github.com/eugeneyan/applied-ml), here is a list of failed projects which we can learn a lot from. 
+If you are looking for examples of how ML can fail despite all its incredible potential, you have come to the right place. Beyond the wonderful success stories of applied machine learning, here is a list of failed projects which we can learn a lot from. 
 <br><br>
 
 [![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md) ![Visits](https://shields-io-visitor-counter.herokuapp.com/badge?page=kennethleungty.Failed-ML&label=Visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
@@ -77,7 +81,7 @@ ___
 | [Facebook Negotiation Chatbots](https://www.techtimes.com/articles/212124/20170730/facebook-ai-invents-language-that-humans-cant-understand-system-shut-down-before-it-evolves-into-skynet.htm) | The AI system was shut down after the chatbots stopped using English in their negotiations and started using a language that they created by themselves | 
 | [OpenAI GPT-3 Chatbot Samantha](https://futurism.com/openai-dead-fiancee) | A GPT-3 chatbot fine-tuned by indie game developer Jason Rohrer to emulate his dead fiancée was shut down by OpenAI after Jason refused their request to insert an automated monitoring tool amidst concerns of the chatbot being racist or overtly sexual |
 | [Amazon Alexa plays porn](https://nypost.com/2016/12/30/toddler-asks-amazons-alexa-to-play-song-but-gets-porn-instead/) | Amazon's voice-activated digital assistant unleashed a torrent of raunchy language after a toddler asked it to play a children’s song. |
-| [Galactica - Meta's Large Language Model](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) | A problem with Galactica was that it could not distinguish truth from falsehood, a basic requirement for a language model designed to generate scientific text. It was found to make up fake papers (sometimes attributing them to real authors), and generated articles about the history of bears in space as readily as ones about protein complexes and the speed of light. |
+| [Galactica - Meta's Large Language Model](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) | A major problem with Galactica was that it could not distinguish truth from falsehood, a basic requirement for a language model designed to generate scientific text. It was found to make up fake papers (sometimes attributing them to real authors), and generated articles about the history of bears in space as readily as ones about protein complexes and the speed of light. |
 
 ___
 <a name="recommendation-systems"></a>
