@@ -89,6 +89,7 @@ ___
 | Title | Description |
 | --- | --- |
 | [IBM's Watson Health](https://www.theverge.com/2018/7/26/17619382/ibms-watson-cancer-ai-healthcare-science) | IBM’s Watson allegedly provided numerous unsafe and incorrect recommendations for treating cancer patients | 
+| [Netflix - $1 Million challenge](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429) | The recommender system that won the $1 Million challenge improved the proposed baseline by 8.43%. However, this performance gain did not seem to justify the engineering effort needed to bring them into a production environment. |
 
 <!-- ___
 <a name="speech-recognition"></a>
