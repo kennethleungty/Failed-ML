@@ -82,6 +82,8 @@ ___
 | [OpenAI GPT-3 Chatbot Samantha](https://futurism.com/openai-dead-fiancee) | A GPT-3 chatbot fine-tuned by indie game developer Jason Rohrer to emulate his dead fiancée was shut down by OpenAI after Jason refused their request to insert an automated monitoring tool amidst concerns of the chatbot being racist or overtly sexual |
 | [Amazon Alexa plays porn](https://nypost.com/2016/12/30/toddler-asks-amazons-alexa-to-play-song-but-gets-porn-instead/) | Amazon's voice-activated digital assistant unleashed a torrent of raunchy language after a toddler asked it to play a children’s song. |
 | [Galactica - Meta's Large Language Model](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) | A problem with Galactica was that it could not distinguish truth from falsehood, a basic requirement for a language model designed to generate scientific text. It was found to make up fake papers (sometimes attributing them to real authors), and generated articles about the history of bears in space as readily as ones about protein complexes. |
+| [Energy Firm in Voice Mimicry Fraud](https://www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402) | Cybercriminals used AI-based software to impersonate the voice of a CEO to demand a fraudulent money transfer as part of the voice-spoofing attack |
+| [Google's BARD Chatbot Demo](https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo) | In its first public demo advertisement, BARD made a factual error regarding which satellite first took pictures of a planet outside the Earth's solar system. | 
 
 ___
 <a name="recommendation-systems"></a>
@@ -89,14 +91,7 @@ ___
 | Title | Description |
 | --- | --- |
 | [IBM's Watson Health](https://www.theverge.com/2018/7/26/17619382/ibms-watson-cancer-ai-healthcare-science) | IBM’s Watson allegedly provided numerous unsafe and incorrect recommendations for treating cancer patients | 
-| [Netflix - $1 Million challenge](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429) | The recommender system that won the $1 Million challenge improved the proposed baseline by 8.43%. However, this performance gain did not seem to justify the engineering effort needed to bring them into a production environment. |
-
-<!-- ___
-<a name="speech-recognition"></a>
-## Speech Recognition
-| Title | Description |
-| --- | --- |
-| [Energy Firm in Voice Mimicry Fraud](https://www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402) | Cybercriminals used AI-based software to impersonate the voice of a CEO to demand a fraudulent money transfer as part of the voice-spoofing attack |  -->
+| [Netflix - $1 Million Challenge](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429) | The recommender system that won the $1 Million challenge improved the proposed baseline by 8.43%. However, this performance gain did not seem to justify the engineering effort needed to bring it into a production environment. |
 
 <!-- Placeholder template -->
 <!-- | [Title](https://link) | Description |  -->
