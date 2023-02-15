@@ -85,6 +85,7 @@ ___
 | [Energy Firm in Voice Mimicry Fraud](https://www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402) | Cybercriminals used AI-based software to impersonate the voice of a CEO to demand a fraudulent money transfer as part of the voice-spoofing attack |
 | [Google's BARD Chatbot Demo](https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo) | In its first public demo advertisement, BARD made a factual error regarding which satellite first took pictures of a planet outside the Earth's solar system. | 
 | [ChatGPT Categories of Failures](https://paperswithcode.com/paper/a-categorical-archive-of-chatgpt-failures) | An analysis of the ten categories of failures seen in ChatGPT so far, including reasoning, factual errors, math, coding, and bias. | 
+|[TikTokers are roasting McDonald's hilarious drive-thru AI order fails](https://www.businessinsider.com/tiktokers-show-failures-with-mcdonalds-drive-thru-ai-robots-2023-2)| Some samples where a production/deployed voice assistant fails to get orders right and leads to brand/reputation damange for McDonalds|
 
 ___
 <a name="recommendation-systems"></a>
