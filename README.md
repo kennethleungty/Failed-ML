@@ -88,8 +88,7 @@ ___
 | [TikTokers roasting McDonald's hilarious drive-thru AI order fails](https://www.businessinsider.com/tiktokers-show-failures-with-mcdonalds-drive-thru-ai-robots-2023-2)| Some samples where a production/deployed voice assistant fails to get orders right and leads to brand/reputation damange for McDonalds|
 | [Bing Chatbot's Unhinged Emotional Behavior](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams) | In certain conversations, Bing's chatbot was found to reply with argumentative and emotional responses |
 | [AI-generated 'Seinfeld' suspended on Twitch for transphobic jokes](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/) | A mistake with the AI’s content filter resulted in the character 'Larry' delivering a transphobic standup routine. |
-
-
+| [ChatGPT cites bogus legal cases](https://mashable.com/article/chatgpt-lawyer-made-up-cases) | A lawyer used OpenAI's popular chatbot ChatGPT to "supplement" his own findings, but was provided with completely manufactured previous cases that do not exist |
 
 ___
 <a name="recommendation-systems"></a>
