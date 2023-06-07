@@ -15,7 +15,7 @@
 If you are looking for examples of how ML can fail despite all its incredible potential, you have come to the right place. Beyond the wonderful success stories of applied machine learning, here is a list of failed projects which we can learn a lot from. 
 <br><br>
 
-[![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md) ![Visits](https://shields-io-visitor-counter.herokuapp.com/badge?page=kennethleungty.Failed-ML&label=Visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+[![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md)
 <hr>
 
 ## Contents
