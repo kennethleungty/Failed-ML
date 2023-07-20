@@ -76,7 +76,7 @@ ___
 ## Generative AI
 | Title | Description |
 | --- | --- |
-| [Playground AI facial generation](https://www.bostonglobe.com/2023/07/19/business/an-mit-student-asked-ai-make-her-headshot-more-professional-it-gave-her-lighter-skin-blue-eyes/) | When asked to turn an image of an Asian headshot into a professional LinkedIn profile photo, the generated output had features that made it look Caucasian instead | 
+| [Playground AI facial generation](https://www.bostonglobe.com/2023/07/19/business/an-mit-student-asked-ai-make-her-headshot-more-professional-it-gave-her-lighter-skin-blue-eyes/) | When asked to turn an image of an Asian headshot into a professional LinkedIn profile photo, the platform generated an output with features that made it look Caucasian instead | 
 
 ___
 <a name="natural-language-processing"></a>
