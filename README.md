@@ -22,9 +22,10 @@ If you are looking for examples of how ML can fail despite all its incredible po
 1. [Classical Machine Learning](#classical-machine-learning)
 2. [Computer Vision](#computer-vision)
 3. [Forecasting](#forecasting)
-4. [Natural Language Processing](#natural-language-processing)
-5. [Recommendation Systems](#recommendation-systems)
-<!-- 6. [Speech Recognition](#speech-recognition) -->
+4. [Generative AI](#generative-ai)
+5. [Natural Language Processing](#natural-language-processing)
+6. [Recommendation Systems](#recommendation-systems)
+<!-- 7. [Speech Recognition](#speech-recognition) -->
 
 ___
 <a name="classical-machine-learning"></a>
@@ -49,7 +50,7 @@ ___
 | [Inverness Automated Football Camera System](https://www.theverge.com/tldr/2020/11/3/21547392/ai-camera-operator-football-bald-head-soccer-mistakes) | AI camera football-tracking technology for live streaming repeatedly confused a linesman’s bald head for the ball itself | 
 | [Amazon Rekognition for US Congressmen](https://www.cnet.com/news/privacy/amazon-facial-recognition-thinks-28-congressmen-look-like-known-criminals-at-default-settings/) | Amazon's facial recognition technology (Rekognition) falsely matched 28 congresspeople with mugshots of criminals, while also revealing racial bias in the algorithm | 
 | [Amazon Rekognition for law enforcement](https://abcnews.go.com/Technology/wireStory/researchers-amazon-face-detection-technology-shows-bias-60630589?cid=social_twitter_abcn) | Amazon's facial recognition technology (Rekognition) misidentified women as men, particularly those with darker skin |
-| [Zhejiang traffice facial recognition system](https://www.theverge.com/2018/11/22/18107885/china-facial-recognition-mistaken-jaywalker) | Traffic camera system (designed to capture traffic offenses) mistook a face on the side of a bus as someone who jaywalked |
+| [Zhejiang traffic facial recognition system](https://www.theverge.com/2018/11/22/18107885/china-facial-recognition-mistaken-jaywalker) | Traffic camera system (designed to capture traffic offenses) mistook a face on the side of a bus as someone who jaywalked |
 | [Kneron tricking facial recognition terminals](https://fortune.com/2019/12/12/airport-bank-facial-recognition-systems-fooled/) | The team at Kneron used high-quality 3-D masks to deceive AliPay and WeChat payment systems to make purchases |  
 | [Twitter smart cropping tool](https://gizmodo.com/twitters-scrambling-to-figure-out-why-its-photo-preview-1845123415) | Twitter's auto-crop tool for photo review displayed evident signs of racial bias | 
 | [Depixelator tool](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) | Algorithm (based on StyleGAN) designed to generate depixelated faces showed signs of racial bias, with image output skewed towards the white demographic | 
@@ -70,6 +71,12 @@ ___
 | [Tyndaris Robot Hedge Fund](https://futurism.com/investing-lawsuit-ai-trades-cost-millions) | AI-powered automated trading system controlled by a supercomputer named K1 resulted in big investment losses, culminating in a lawsuit | 
 | [Sentient Investment AI Hedge Fund](https://www.bloomberg.com/news/articles/2018-09-07/ai-hedge-fund-sentient-is-said-to-shut-after-less-than-two-years) | The once high flying AI-powered fund at Sentient Investment Management failed to make money and was promptly liquidated in less than 2 years | 
 
+___
+<a name="generative-ai"></a>
+## Generative AI
+| Title | Description |
+| --- | --- |
+| [Playground AI facial generation](https://www.bostonglobe.com/2023/07/19/business/an-mit-student-asked-ai-make-her-headshot-more-professional-it-gave-her-lighter-skin-blue-eyes/) | When asked to turn an image of an Asian headshot into a professional LinkedIn profile photo, the generated output had features that made it look Caucasian instead | 
 
 ___
 <a name="natural-language-processing"></a>
