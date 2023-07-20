@@ -19,7 +19,7 @@ If you are looking for examples of how ML can fail despite all its incredible po
 <hr>
 
 ## Contents
-1. [Classical Machine Learning](#classical-machine-learning)
+1. [Classic Machine Learning](#classical-machine-learning)
 2. [Computer Vision](#computer-vision)
 3. [Forecasting](#forecasting)
 4. [Generative AI](#generative-ai)
@@ -28,8 +28,8 @@ If you are looking for examples of how ML can fail despite all its incredible po
 <!-- 7. [Speech Recognition](#speech-recognition) -->
 
 ___
-<a name="classical-machine-learning"></a>
-## Classical Machine Learning
+<a name="classic-machine-learning"></a>
+## Classic Machine Learning
 | Title | Description |
 | --- | --- |
 | [Amazon AI Recruitment System](https://finance.yahoo.com/news/amazon-reportedly-killed-ai-recruitment-100042269.html) | AI-powered automated recruitment system canceled after evidence of discrimination against female candidates |
