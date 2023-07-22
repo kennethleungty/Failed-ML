@@ -59,6 +59,7 @@ ___
 | [New Jersey Police Facial Recognition](https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html) | A false facial recognition match by New Jersey police landed an innocent black man (Nijeer Parks) in jail even though he was 30 miles away from the crime | 
 | [Tesla's dilemma between a horse cart and a truck](https://www.thesun.co.uk/motors/19537820/tesla-driver-gets-stuck-behind-a-horse-and-cart/) | Tesla's visualization system got confused by mistaking a horse carriage as a truck with a man walking behind it |
 | [Google's AI for Diabetic Retinopathy Detection](https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/) | The retina scanning tool fared much worse in real-life settings than in controlled experiments, with issues such as rejected scans (from poor scan image quality) and delays from intermittent internet connectivity when uploading images to the cloud for processing | 
+| [Sampling Issue in pneumonia classification](https://twitter.com/svpino/status/1592140348905517056?lang=ar) | In 2017, a team led by Andrew Ng published a paper showing off a Deep Learning model to detect pneumonia failed miserably in real time even though abundance of the data. Later they retrained with Time based Split |
 
 
 ___
