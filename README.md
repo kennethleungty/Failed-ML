@@ -22,7 +22,7 @@ If you are looking for examples of how ML can fail despite all its incredible po
 1. [Classic Machine Learning](#classical-machine-learning)
 2. [Computer Vision](#computer-vision)
 3. [Forecasting](#forecasting)
-4. [Generative AI](#generative-ai)
+4. [Image Generation](#image-generation)
 5. [Natural Language Processing](#natural-language-processing)
 6. [Recommendation Systems](#recommendation-systems)
 <!-- 7. [Speech Recognition](#speech-recognition) -->
@@ -72,8 +72,8 @@ ___
 | [Sentient Investment AI Hedge Fund](https://www.bloomberg.com/news/articles/2018-09-07/ai-hedge-fund-sentient-is-said-to-shut-after-less-than-two-years) | The once high flying AI-powered fund at Sentient Investment Management failed to make money and was promptly liquidated in less than 2 years | 
 
 ___
-<a name="generative-ai"></a>
-## Generative AI
+<a name="image-generation"></a>
+## Image Generation
 | Title | Description |
 | --- | --- |
 | [Playground AI facial generation](https://www.bostonglobe.com/2023/07/19/business/an-mit-student-asked-ai-make-her-headshot-more-professional-it-gave-her-lighter-skin-blue-eyes/) | When asked to turn an image of an Asian headshot into a professional LinkedIn profile photo, the AI image editor generated an output with features that made it look Caucasian instead | 
@@ -99,7 +99,7 @@ ___
 | [Bing Chatbot's Unhinged Emotional Behavior](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams) | In certain conversations, Bing's chatbot was found to reply with argumentative and emotional responses |
 | [Bing's AI quotes COVID disinformation sourced from ChatGPT](https://techcrunch.com/2023/02/08/ai-is-eating-itself-bings-ai-quotes-covid-disinfo-sourced-from-chatgpt/) | Bing's response to a query on COVID-19 anti-vaccine advocacy was inaccurate and based on false information from unreliable sources |
 | [AI-generated 'Seinfeld' suspended on Twitch for transphobic jokes](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/) | A mistake with the AI’s content filter resulted in the character 'Larry' delivering a transphobic standup routine. |
-| [ChatGPT cites bogus legal cases](https://mashable.com/article/chatgpt-lawyer-made-up-cases) | A lawyer used OpenAI's popular chatbot ChatGPT to "supplement" his own findings but was provided with completely manufactured previous cases that do not exist |
+| [ChatGPT cites bogus legal cases](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html) | A lawyer used OpenAI's popular chatbot ChatGPT to "supplement" his own findings but was provided with completely manufactured previous cases that do not exist |
 
 ___
 <a name="recommendation-systems"></a>
