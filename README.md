@@ -70,6 +70,7 @@ ___
 | [Zillow iBuying algorithms](https://www.wired.com/story/zillow-ibuyer-real-estate/) | Significant losses in Zillow's home-flipping business due to inaccurate (overestimated) prices from property valuation models |
 | [Tyndaris Robot Hedge Fund](https://futurism.com/investing-lawsuit-ai-trades-cost-millions) | AI-powered automated trading system controlled by a supercomputer named K1 resulted in big investment losses, culminating in a lawsuit | 
 | [Sentient Investment AI Hedge Fund](https://www.bloomberg.com/news/articles/2018-09-07/ai-hedge-fund-sentient-is-said-to-shut-after-less-than-two-years) | The once high flying AI-powered fund at Sentient Investment Management failed to make money and was promptly liquidated in less than 2 years | 
+| [JP Morgan pulls plug on Deep Learning Model for FX Algos](https://www.risk.net/derivatives/7958022/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos) | JP Morgan has phased out a deep neural network for foreign exchange algorithmic execution, citing issues with data interpretation and the complexity involved. | 
 
 ___
 <a name="image-generation"></a>
