@@ -79,6 +79,7 @@ ___
 | --- | --- |
 | [Playground AI facial generation](https://www.bostonglobe.com/2023/07/19/business/an-mit-student-asked-ai-make-her-headshot-more-professional-it-gave-her-lighter-skin-blue-eyes/) | When asked to turn an image of an Asian headshot into a professional LinkedIn profile photo, the AI image editor generated an output with features that made it look Caucasian instead | 
 | [Stable Diffusion Text-to-Image Model](https://www.bloomberg.com/graphics/2023-generative-ai-bias/) | In an experiment run by Bloomberg, it was found that Stable Diffusion (text-to-image model) exhibited racial and gender bias in the thousands of generated images related to job titles and crime |
+| [Historical Inaccuracies in Gemini Image Generation](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause) | Google's Gemini image generation feature was found to be generating inaccurate historical image depictions in its attempt to subvert gender and racial stereotypes, such as returning non-white AI-generated people when prompted to generate USA's founding fathers |
 
 
 ___
