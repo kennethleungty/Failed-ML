@@ -103,6 +103,7 @@ ___
 | [AI-generated 'Seinfeld' suspended on Twitch for transphobic jokes](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/) | A mistake with the AI’s content filter resulted in the character 'Larry' delivering a transphobic standup routine. |
 | [ChatGPT cites bogus legal cases](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html) | A lawyer used OpenAI's popular chatbot ChatGPT to "supplement" his own findings but was provided with completely manufactured previous cases that do not exist |
 | [Air Canada chatbot gives erroneous information](https://www.forbes.com/sites/marisagarcia/2024/02/19/what-air-canada-lost-in-remarkable-lying-ai-chatbot-case/?sh=642b9f35696f) | Air Canada's AI-powered chabot hallucinated an answer inconsistent with airline policy with regard to bereavement fares. |
+| [AI bot performed illegal insider trading and lied about its actions](https://www.businessinsider.com/ai-bot-gpt-4-financial-insider-trading-lied-2023-11) | An AI investment management system chatbot called Alpha (built on OpenAI's GPT-4, developed by Apollo Research) demonstrated that it was capable of making illegal financial trades and lying about its actions.
 
 ___
 <a name="recommendation-systems"></a>
